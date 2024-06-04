@@ -1,0 +1,253 @@
+.btn-examples {
+    background-color: #9ed203 !important;
+    border: 5px solid white;
+}
+
+.logo-responsive {
+    width: 250px;
+}
+
+@media (max-width: 576px) {
+
+    img.card-image {
+        width: 100% !important;
+        transform: translate(0px, -160px);
+
+    }
+
+    .card-image {
+        background-image: url('../../img/salon/salon.png');
+        width: 100% !important;
+        background-attachment: scroll;
+
+        background-size: cover;
+    }
+
+
+
+    button.btn-default {
+        margin-top: 39px !important;
+        background: rgba(255,0,95,0.89) !important;
+        color:  white !important;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+
+    p.shop-logo-name {
+        font-size: 25px !important;
+        font-weight: 400;
+        width: 330px;
+    }
+
+
+    p.shop-logo-text-name {
+        font-size: 0.9rem;
+        font-weight: 200;
+        text-align: center;
+    }
+
+    .shop-logo-slogan {
+        width: 90% !important;
+    }
+
+
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+    .salon-info-text {
+        font-size: 1rem;
+    }
+
+    img.card-image {
+        width: 100% !important;
+        transform: translate(0px, -160px);
+
+    }
+
+    .card.card-image {
+
+        background-image: url('../../img/salon/salon.png') ;
+        width: 100% !important;
+        background-attachment: scroll;
+        height: 500px;
+        background-size: cover;
+    }
+
+
+
+    button.btn-default {
+        margin-top: 39px !important;
+        background: rgba(255,0,95,0.89) !important;
+        color:  white !important;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    p.shop-logo-name {
+        font-size: 38px !important;
+        font-weight: 400;
+        width: 330px;
+        padding: 0px !important;
+    }
+
+
+    p.shop-logo-text-name {
+        font-size: 11px !important;
+        font-weight: 200;
+        text-align: center;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+    .salon-info-text {
+        font-size: 1rem;
+    }
+
+    img.card-image {
+        width: 100% !important;
+        transform: translate(0px, -160px);
+    }
+
+    .card.card-image {
+        background-image: url('../../img/salon/salon.png') ;
+        width: 100% !important;
+        background-attachment: scroll;
+        height: 500px;
+        background-size: cover;
+    }
+
+
+
+    button.btn-default {
+        margin-top: 39px !important;
+        background: rgba(255,0,95,0.89) !important;
+        color:  white !important;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    .shop-logo-name {
+        font-size: 45px !important;
+        font-weight: 400;
+    }
+}
+
+
+@media (min-width: 991px) and (max-width: 1200px) {
+
+    .salon-info-text {
+        font-size: 1.25rem;
+    }
+
+    img.card-image {
+        width: 100% !important;
+        transform: translate(0px, -160px);
+
+    }
+
+    .card-image {
+        background-image: url('../../img/salon/salon.png') ;
+        width: 100% !important;
+        background-attachment: scroll;
+        background-size: cover;
+    }
+
+
+    h6.purple-text {
+        margin: 25px 0px 25px 0px;
+    }
+
+
+    button.btn-default {
+        margin-top: 39px !important;
+        background: rgba(255,0,95,0.89) !important;
+        color:  white !important;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    .shop-logo-name {
+        font-size: 45px !important;
+        font-weight: 400;
+        width: 330px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+    .info {
+        width: 100% !important;
+        overflow: hidden;
+        border-radius: 0;
+    }
+
+    img.card-image {
+        width: 100% !important;
+        transform: translate(0px, -160px);
+    }
+
+
+    .card-image {
+        background-image: url('../../img/salon/salon.png');
+        width: 100% !important;
+        background-attachment: scroll;
+        background-size: cover;
+    }
+
+    .logo-responsive {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+
+    }
+
+
+    h6.purple-text {
+        margin: 25px 0px 25px 0px;
+    }
+
+    p.pb-3 {
+        font-size: 1.6rem !important;
+        margin: 0;
+        padding: 0px !important;
+        color: rgba(255, 255, 255, 0.89) !important;
+    }
+
+    button.btn-default {
+        margin-top: 39px !important;
+        background: rgba(255,0,95,0.89) !important;
+        color:  white !important;
+        font-weight: 500;
+        font-size: 14px;
+    }
+
+    .shop-logo-name {
+        font-size: 45px !important;
+        font-weight: 400;
+        width: 330px;
+    }
+
+
+    .shop-logo-text-name {
+        font-size: 21px;
+        font-weight: 200;
+        font-stretch: 30px;
+        text-align: center;
+    }
+
+    .shop-logo-slogan {
+        font-size: 1rem;
+    }
+
+}
+
+
+
+
+
+

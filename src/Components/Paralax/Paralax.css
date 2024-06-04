@@ -1,0 +1,57 @@
+/*.paralax {*/
+/*    background-image: url("https://images.t3n.de/news/wp-content/uploads/2017/02/software-entwickler-programmierer-programmieren-pizza.jpg?class=hero");*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*}*/
+
+/*.paralax-relative {*/
+/*    display: block;*/
+/*    position: relative;*/
+/*}*/
+
+/*.paralax-absolute {*/
+/*    display: block;*/
+/*    position: absolute;*/
+/*}*/
+
+/*.paralax-mask {*/
+/*    display: block;*/
+/*    position: absolute;*/
+/*}*/
+
+
+
+@media (max-width: 576px) {
+    .shop-name-text {
+        padding-top: 15px !important;
+    }
+
+    .paralax-text p{
+        font-size: 0.9rem;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+
+@media (min-width: 991px) and (max-width: 1200px) {
+
+
+}
+
+
+@media (min-width: 1200px) {
+
+
+}
+
+

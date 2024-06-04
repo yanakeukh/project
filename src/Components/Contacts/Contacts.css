@@ -1,0 +1,77 @@
+i.fab.fa-instagram.contacts {
+    color: #000000 !important;
+}
+
+
+.contacts-cont {
+    width: 100%;
+    height: 100% !important;
+}
+
+.contacts-row {
+    height: 100% !important;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.78);
+}
+
+.contacts-col {
+    padding: 15px;
+    background-color: #badde6;
+}
+
+
+.info {
+    background-color: rgba(255, 0, 95, 0.89);
+    color: white !important;
+    background-color: #badde6;
+}
+
+.info p {
+    line-height: 25px;
+}
+
+
+
+@media (max-width: 576px) {
+    .contacts-row {
+        display: list-item;
+    }
+
+    .info p {
+        font-size: 1.1rem !important;
+    }
+
+    .info ul{
+        margin-left: 20px !important;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .info p {
+        font-size: 0.9rem !important;
+    }
+
+    .fa-size {
+        font-size: 2.5em;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+
+@media (min-width: 991px) and (max-width: 1200px) {
+
+}
+
+
+@media (min-width: 1200px) {
+
+    .contact-text {
+        font-size: 1.5rem;
+    }
+}

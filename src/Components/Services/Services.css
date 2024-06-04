@@ -1,0 +1,128 @@
+
+
+
+@media (max-width: 576px) {
+    .block {
+        align-content: center;
+    }
+
+
+    .bl {
+        display: flex;
+        width: 85px;
+        height: 85px;
+        margin: 3px;
+    }
+
+    p.serv {
+        height: 30px;
+        margin-top: 40%;
+        font-weight: 400;
+        font-size: 0.8rem !important;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    .block {
+        align-content: center;
+        padding: 100px auto 50px auto !important;
+    }
+
+    .bl {
+        display: flex;
+        width: 90px;
+        height: 90px;
+        margin: 5px;
+    }
+
+    p.serv {
+        width: 100%;
+        height: 30px;
+        margin-top: 40%;
+        font-size: 0.8rem !important;
+        font-weight: 400;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .block {
+        align-content: center;
+        padding: 100px auto 50px auto !important;
+    }
+
+
+    .imgBl {
+        width: 225px;
+        height: 225px;
+    }
+
+    .bl {
+        display: inline-flex;
+        justify-content: space-between;
+        width: 120px;
+        height: 120px;
+        margin: 5px;
+    }
+
+    p.serv {
+        text-align: center;
+        width: 100%;
+        height: 30px;
+        margin-top: 40%;
+        color: rgb(255, 252, 243) !important;
+        font-size: 0.8rem !important;
+        font-weight: 400;
+
+    }
+
+    h1 {
+        text-align: center;
+        padding: 75px 0px 55px 0px;
+        margin: 0px !important;
+    }
+
+}
+
+
+@media (min-width: 991px) and (max-width: 1200px) {
+
+    .bl {
+        display: inline-flex;
+        justify-content: space-between;
+        width: 160px;
+        height: 160px;
+        margin: 5px;
+    }
+
+    p.serv {
+        text-align: center;
+        width: 100%;
+        height: 30px;
+        margin-top: 40%;
+        color: rgb(255, 252, 243) !important;
+        font-size: 25px;
+        font-weight: 400;
+
+    }
+
+    h1 {
+        text-align: center;
+        padding: 75px 0px 55px 0px;
+        margin: 0px !important;
+    }
+
+}
+
+
+@media (min-width: 1200px) {
+
+    .block {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position-y: center;
+        height: 550px;
+    }
+}

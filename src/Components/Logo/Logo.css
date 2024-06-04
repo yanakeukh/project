@@ -1,0 +1,313 @@
+.slogan-text-slogan {
+    font-size: 1.5vw !important;
+}
+
+.slogan-text {
+    font-size: 2.5vw !important;
+}
+
+.shop-logo {
+    font-size: 65px !important;
+    font-weight: 400;
+    letter-spacing: 6px;
+    width: 330px;
+}
+
+
+.shop-logo-text {
+    font-size: 21px;
+    font-weight: 200;
+    font-stretch: 30px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.logo-img {
+    width: 300px !important;
+}
+
+.nav-item {
+    color: greenyellow !important;
+}
+
+.slogan {
+    color: greenyellow;
+    font-size: 75px;
+}
+
+.slogan-text {
+    color: #f60505;
+    font-size: 35px;
+}
+
+@media (max-width: 576px) {
+
+    .image-logo {
+        height: 80px;
+    }
+
+    .shop-bg-nav {
+        background-image: url('https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1060&t=st=1698637083~exp=1698637683~hmac=6fa3bc37aa1e168a19c29b7e22ece9a22178cc0b705b69c77d481cf53f5504b5') !important;
+        width: 100% !important;
+        background-repeat: no-repeat;
+    }
+
+    .shop-bg-nav {
+        background-image: url("https://sps-sng.ru/wp-content/uploads/2020/04/Kartinka-1-Sostavlenie-biznes-plana-1536x1025.jpg");
+        background-size: cover;
+    }
+
+    .slogan-text-slogan {
+        font-size: 15px;
+    }
+
+    .slogan {
+        font-size: 35px;
+    }
+
+    .slogan-text {
+        font-size: 20px;
+    }
+
+
+    .shop-bg-nav {
+        height: 330px !important;
+    }
+
+    #shop-logo {
+        display: none !important;
+    }
+
+    button.navbar.navbar-light.navbar-toggler {
+        color: white !important;
+        padding-bottom: 10px !important;
+    }
+
+
+    .shop-nav-first {
+        display: none;
+    }
+
+    img.flower {
+        width: 45px;
+        height: 49px;
+        padding-top: 10px;
+    }
+
+    p.shop-logo {
+        font-size: 38px !important;
+    }
+
+    p.shop-logo-text {
+        font-size: 11px !important;
+    }
+
+    .adress-info {
+        display: none;
+    }
+
+    .logo-img {
+        width: 130px !important;
+    }
+
+
+    li a.logo-tell {
+        font-size: 10px !important;
+    }
+
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+
+    .image-logo {
+        height: 120px;
+    }
+
+    .shop-bg-nav {
+        background-image: url('https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1060&t=st=1698637083~exp=1698637683~hmac=6fa3bc37aa1e168a19c29b7e22ece9a22178cc0b705b69c77d481cf53f5504b5') !important;
+        width: 100% !important;
+        background-repeat: no-repeat;
+    }
+
+    .slogan-text-slogan {
+        font-size: 15px;
+    }
+
+
+    .shop-bg-nav {
+        height: 430px !important;
+    }
+
+    #shop-logo {
+        display: none !important;
+    }
+
+    .slogan {
+        font-size: 50px;
+    }
+
+    .slogan-text {
+        font-size: 25px;
+    }
+
+    button.navbar.navbar-light.navbar-toggler {
+        color: white !important;
+        padding-bottom: 10px !important;
+    }
+
+
+    .shop-nav-first {
+        display: none;
+    }
+
+    img.flower {
+        width: 80px;
+        height: 75px;
+    }
+
+    p.shop-logo {
+        font-size: 38px !important;
+    }
+
+    p.shop-logo-text {
+        font-size: 11px !important;
+    }
+
+    .adress-info {
+        display: none;
+    }
+
+    .logo-img {
+        width: 180px !important;
+    }
+
+    .logo-tell {
+        font-size: 12px;
+    }
+
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .image-logo {
+        height: 120px;
+    }
+
+
+    .shop-bg-nav {
+        background-image: url('https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1060&t=st=1698637083~exp=1698637683~hmac=6fa3bc37aa1e168a19c29b7e22ece9a22178cc0b705b69c77d481cf53f5504b5') !important;
+        width: 100% !important;
+        background-repeat: no-repeat;
+    }
+
+    .slogan-text-slogan {
+        font-size: 15px;
+    }
+
+    img.flower {
+        width: 125px;
+        height: 125px;
+    }
+
+    p.shop-logo {
+        font-size: 60px !important;
+    }
+
+    p.shop-logo-text {
+        font-size: 19px !important;
+    }
+
+    .adress-info {
+        display: none;
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+
+    .image-logo {
+        height: 150px;
+    }
+
+    .shop-bg-nav {
+        background-image: url('https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1060&t=st=1698637083~exp=1698637683~hmac=6fa3bc37aa1e168a19c29b7e22ece9a22178cc0b705b69c77d481cf53f5504b5') !important;
+        width: 100% !important;
+        background-size:100%;
+        background-repeat: no-repeat;
+    }
+
+    .slogan-text-slogan {
+        font-size: 23px;
+    }
+
+    .shop-bg-nav {
+        height: 580px !important;
+    }
+
+
+    img.flower {
+        width: 165px;
+        height: 135px;
+    }
+
+    .shop-nav-second {
+        display: none;
+    }
+
+    p.shop-logo {
+        font-size: 60px !important;
+    }
+
+    p.shop-logo-text {
+        font-size: 19px !important;
+    }
+
+}
+
+
+@media (min-width: 1200px) {
+
+    .image-logo {
+        height: 150px;
+    }
+
+    .shop-bg-nav {
+        background-image: url('https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1060&t=st=1698637083~exp=1698637683~hmac=6fa3bc37aa1e168a19c29b7e22ece9a22178cc0b705b69c77d481cf53f5504b5') !important;
+        width: 100% !important;
+        background-size:100%;
+        background-repeat: no-repeat;
+    }
+
+    .slogan-text-slogan {
+        font-size: 23px;
+    }
+
+    .shop-bg-nav {
+        height: 640px !important;
+    }
+
+    .shop-nav-second {
+        display: none;
+    }
+
+    p.shop-logo {
+        font-size: 60px !important;
+    }
+
+    p.shop-logo-text {
+        font-size: 19px !important;
+    }
+
+    img.flower {
+        width: 165px;
+        height: 135px;
+    }
+
+    a.logo-tell {
+        font-size: 1.2rem;
+    }
+
+}

@@ -1,0 +1,548 @@
+.footer-copyright {
+    background: rgb(158, 210, 3) !important;
+    font-size: 15px;
+    color: black;
+}
+
+.logo-white {
+    width: 285px;
+}
+
+.footer-nav:hover {
+    color: #9ed203;
+}
+
+.footer-items:hover {
+    color: #9ed203;
+}
+
+@media (max-width: 576px) {
+    .logo-img {
+        width: 100%;
+    }
+
+
+    footer.page-footer {
+        background-color: rgb(14, 14, 14) !important;
+        overflow: hidden;
+    }
+
+    .footer-copyright {
+        background: rgb(158, 210, 3) !important;
+        font-size: 15px;
+    }
+
+    a.salon {
+        display: inline-block;
+    }
+
+
+    p.logo-text {
+        margin: 0 !important;
+        font-size: 1rem;
+        float: right;
+        text-align: right;
+    }
+
+    .logo-text-cr {
+        padding-top: 10px;
+        float: right;
+        font-size: 0.7rem;
+    }
+
+    img.flower-footer {
+        z-index: 100;
+        display: block;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        transform: translate(-250px, 50px);
+        margin: 0;
+        overflow: hidden;
+    }
+
+    .footer-nav {
+        margin-left: 10px;
+    }
+
+
+    .footer-ic {
+        display: inline-flex;
+        flex-direction: row;
+        margin-top: 5px !important;
+    }
+
+    i.footer-icons {
+        color: #1c0e0e;
+        font-size: 18px;
+    }
+
+    p.logo-name {
+        font-size: 2rem !important;
+        text-align: right !important;
+        letter-spacing: 0.35rem !important;
+        float: right;
+    }
+
+    p.logo-slogan {
+        font-size: 0.61rem !important;
+        letter-spacing: 0.15rem !important;
+        text-align: right !important;
+        float: right;
+    }
+
+    p.logo-text {
+        font-size: 0.72rem !important;
+    }
+
+    .flower-footer {
+        display: none !important;
+    }
+
+    a.logo-tell {
+        font-size: 0.8rem !important;
+    }
+
+    .logo-white {
+        width: 150px;
+        float: right;
+    }
+
+    .logo-block {
+        width: 150px;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+    footer.page-footer {
+        height: 410px;
+        margin: 0px !important;
+        padding: 0px !important;
+        background-color: rgb(14, 14, 14) !important;
+        overflow: hidden;
+
+    }
+
+    .container-fluid {
+        height: 360px !important;
+
+    }
+
+    .footer-copyright {
+        height: 50px;
+    }
+
+    .row {
+        padding: 45px 0px 0px 0px;
+        height: 100%;
+    }
+
+    .col-md-3 {
+        height: 100%;
+    }
+
+
+    a.salon {
+        display: inline-block;
+    }
+
+
+    p.logo-text {
+        margin: 0 !important;
+        font-size: 1rem;
+        float: right;
+        text-align: right;
+    }
+
+    .logo-text-cr {
+        padding-top: 10px;
+        float: right;
+        font-size: 0.7rem;
+    }
+
+    img.flower-footer {
+        z-index: 100;
+        display: block;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        transform: translate(-250px, 50px);
+        margin: 0;
+        overflow: hidden;
+    }
+
+    .footer-nav {
+        margin-left: 45px;
+
+    }
+
+
+    .footer-ic {
+        display: inline-flex;
+        flex-direction: row;
+        margin-top: 5px !important;
+    }
+
+    i.footer-icons {
+        color: #1c0e0e;
+        font-size: 25px;
+    }
+
+    p.logo-name {
+        font-size: 1rem !important;
+        text-align: right !important;
+    }
+
+    p.logo-slogan {
+        font-size: 0.8rem !important;
+        letter-spacing: 0.13rem;
+        text-align: right !important;
+        float: right;
+    }
+
+    p.logo-text {
+        font-size: 0.85rem !important;
+    }
+
+    .flower-footer {
+        display: none !important;
+    }
+
+    p.logo-name {
+        font-size: 2.8rem !important;
+        letter-spacing: 0.45rem;
+        float: right !important;
+        text-align: right;
+    }
+
+    p.logo-slogan {
+        font-size: 0.9rem !important;
+        letter-spacing: 0.17rem;
+        text-align: right !important;
+        float: right;
+    }
+
+    .logo-white {
+        width: 180px;
+        float: right;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    footer.page-footer {
+        height: 410px;
+        margin: 0px !important;
+        padding: 0px !important;
+        background-color: rgb(14, 14, 14) !important;
+        overflow: hidden;
+    }
+
+    .container-fluid {
+        height: 360px !important;
+
+    }
+
+    .footer-copyright {
+        height: 50px;
+    }
+
+    .row {
+        padding: 45px 0px 0px 0px;
+        height: 100%;
+    }
+
+    .col-md-3 {
+        height: 100%;
+    }
+
+
+    a.salon {
+        display: inline-block;
+    }
+
+
+    p.logo-text {
+        margin: 0 !important;
+        font-size: 1rem;
+        float: right;
+        text-align: right;
+    }
+
+    .logo-text-cr {
+        padding-top: 10px;
+        float: right;
+        font-size: 0.7rem;
+    }
+
+    img.flower-footer {
+        z-index: 100;
+        display: block;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        transform: translate(-250px, 50px);
+        margin: 0;
+        overflow: hidden;
+    }
+
+
+    .footer-nav {
+        margin-left: 45px;
+
+    }
+
+
+    .footer-ic {
+        display: inline-flex;
+        flex-direction: row;
+        margin-top: 5px !important;
+    }
+
+    i.footer-icons {
+        color: #1c0e0e;
+        font-size: 25px;
+    }
+
+    p.logo-name {
+        font-size: 2.3rem !important;
+        text-align: right !important;
+    }
+
+    p.logo-slogan {
+        font-size: 0.8rem !important;
+        letter-spacing: 0.13rem;
+        text-align: right !important;
+        float: right;
+    }
+
+    p.logo-text {
+        font-size: 0.85rem !important;
+    }
+
+    p.logo-name {
+        font-size: 3.1rem !important;
+        letter-spacing: 0.45rem;
+        float: right !important;
+        text-align: right;
+    }
+
+    p.logo-slogan {
+        font-size: 1rem !important;
+        letter-spacing: 0.17rem;
+        text-align: right !important;
+        float: right;
+    }
+
+    .logo-white {
+        width: 240px;
+    }
+}
+
+
+@media (min-width: 991px) and (max-width: 1200px) {
+    footer.page-footer {
+        height: 410px;
+        margin: 0px !important;
+        padding: 0px !important;
+        background-color: rgb(14, 14, 14) !important;
+        overflow: hidden;
+
+    }
+
+    .container-fluid {
+        height: 360px !important;
+
+    }
+
+    .footer-copyright {
+        height: 50px;
+    }
+
+    .row {
+        padding: 45px 0px 0px 0px;
+        height: 100%;
+    }
+
+    .col-md-3 {
+        height: 100%;
+    }
+
+
+    a.salon {
+        display: inline-block;
+    }
+
+
+    p.logo-text {
+        margin: 0 !important;
+        font-size: 1rem;
+        float: right;
+        text-align: right;
+    }
+
+    .logo-text-cr {
+        padding-top: 10px;
+        float: right;
+        font-size: 0.7rem;
+    }
+
+    img.flower-footer {
+        z-index: 100;
+        display: block;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        transform: translate(-250px, 50px);
+        margin: 0;
+        overflow: hidden;
+    }
+
+
+    .footer-nav {
+        margin-left: 45px;
+    }
+
+    .footer-items {
+        font-size: 1rem;
+    }
+
+
+    .footer-ic {
+        display: inline-flex;
+        flex-direction: row;
+        margin-top: 5px !important;
+    }
+
+    i.footer-icons {
+        color: #1c0e0e;
+        font-size: 25px;
+    }
+
+    p.logo-name {
+        font-size: 3.1rem !important;
+        letter-spacing: 0.45rem;
+        float: right !important;
+        text-align: right;
+    }
+
+    p.logo-slogan {
+        font-size: 1rem !important;
+        letter-spacing: 0.17rem;
+        text-align: right !important;
+        float: right;
+    }
+
+    p.logo-text {
+        font-size: 0.85rem !important;
+    }
+
+    .logo-white {
+        width: 240px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+
+    .logo-img {
+        height: 150px;
+    }
+
+    footer.page-footer {
+        height: 410px;
+        margin: 0px !important;
+        padding: 0px !important;
+        background-color: rgb(14, 14, 14) !important;
+        overflow: hidden;
+
+    }
+
+    .container-fluid {
+        height: 360px !important;
+
+    }
+
+    p.logo-name {
+        font-size: 3.8rem !important;
+        text-align: right !important;
+        letter-spacing: 0.5rem;
+    }
+
+    p.logo-slogan {
+        font-size: 1.35rem !important;
+        letter-spacing: 0.13rem;
+        text-align: right !important;
+        float: right;
+    }
+
+    p.logo-text {
+        font-size: 1rem !important;
+    }
+
+    .footer-items {
+        font-size: 1rem;
+    }
+
+    .footer-copyright {
+        height: 50px;
+    }
+
+    a.salon {
+        display: inline-block;
+    }
+
+
+    p.logo-text {
+        margin: 0 !important;
+        font-size: 1rem;
+        float: right;
+        text-align: right;
+    }
+
+    .logo-text-cr {
+        padding-top: 10px;
+        float: right;
+        font-size: 0.7rem;
+    }
+
+    img.flower-footer {
+        z-index: 100;
+        display: block;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        transform: translate(-250px, 50px);
+        margin: 0;
+        overflow: hidden;
+    }
+
+    .footer-nav {
+        margin-left: 45px;
+    }
+
+
+    .footer-ic {
+        display: inline-flex;
+        flex-direction: row;
+        margin-top: 5px !important;
+    }
+
+    i.footer-icons {
+        color: #1c0e0e;
+        font-size: 25px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
